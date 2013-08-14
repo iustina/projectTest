@@ -8,8 +8,8 @@
     <scm>
         <connection>scm:git:git@github.com:iustina/projectTest.git</connection>
         <developerConnection>scm:git:git@github.com:iustina/projectTest.git</developerConnection>
-        <url>https://github.com/iustina/projectTest</url>
-        <tag>v1.1</tag>
+  <!--      <url>https://github.com/iustina/projectTest</url>
+        <tag>v1.1</tag>-->
     </scm>
 
     <build>
