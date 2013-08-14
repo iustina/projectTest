@@ -3,13 +3,13 @@
     <groupId>com.project</groupId>
     <artifactId>simple</artifactId>
     <packaging>jar</packaging>
-    <version>1.4-SNAPSHOT</version>
+    <version>1.4</version>
 
     <scm>
         <connection>scm:git:git@github.com:iustina/projectTest.git</connection>
         <developerConnection>scm:git:git@github.com:iustina/projectTest.git</developerConnection>
         <url>https://github.com/iustina/projectTest</url>
-        <tag>v1.3</tag>
+        <tag>v1.4</tag>
     </scm>
 
     <build>
